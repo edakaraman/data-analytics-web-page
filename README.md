@@ -1,4 +1,4 @@
-<h1> Data Analytics Web Page </h1>
+<h1> Data Finance Web Page </h1>
 <p> Frontend design was done. React, TailwindCSS was used in the project. </p>
 <p> For live demo : https://data-finance-web-app.surge.sh/ </p>
 
